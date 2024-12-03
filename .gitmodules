@@ -1,0 +1,6 @@
+[submodule "scraping/kym-scrapper"]
+	path = scraping/kym-scrapper
+	url = git@github.com:meme-schievous/kym-scrapper.git
+[submodule "scraping/imgflip-scraper"]
+	path = scraping/imgflip-scraper
+	url = git@github.com:meme-schievous/imgflip-scraper.git
